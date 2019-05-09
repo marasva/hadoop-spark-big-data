@@ -1,0 +1,5 @@
+1	dfsadmin
+1	dfs.secondary.http.address
+1	dfs.replication
+1	dfs.namenode.name.dir
+1	dfs.datanode.data.dir
